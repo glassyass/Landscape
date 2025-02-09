@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Wildrose Landscape and Construction</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content in Portfolio on Wildrose Landscape and Construction</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Aug 2023 20:18:01 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cups</title>
+      <link>http://localhost:1313/portfolio/cups/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/cups/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cactus</title>
+      <link>http://localhost:1313/portfolio/cactus/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/cactus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dance</title>
+      <link>http://localhost:1313/portfolio/dance/</link>
+      <pubDate>Tue, 08 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/dance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bottles</title>
+      <link>http://localhost:1313/portfolio/bottles/</link>
+      <pubDate>Mon, 07 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/bottles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tree</title>
+      <link>http://localhost:1313/portfolio/tree/</link>
+      <pubDate>Sun, 06 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/tree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dream</title>
+      <link>http://localhost:1313/portfolio/dream/</link>
+      <pubDate>Sat, 05 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/dream/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Logo</title>
+      <link>http://localhost:1313/portfolio/logo/</link>
+      <pubDate>Fri, 04 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/logo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music album</title>
+      <link>http://localhost:1313/portfolio/music-album/</link>
+      <pubDate>Thu, 03 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/music-album/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Book</title>
+      <link>http://localhost:1313/portfolio/book/</link>
+      <pubDate>Wed, 02 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photo</title>
+      <link>http://localhost:1313/portfolio/photo/</link>
+      <pubDate>Tue, 01 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/photo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hand</title>
+      <link>http://localhost:1313/portfolio/hand/</link>
+      <pubDate>Mon, 31 Jul 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/hand/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Package</title>
+      <link>http://localhost:1313/portfolio/package/</link>
+      <pubDate>Sun, 30 Jul 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/package/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phone</title>
+      <link>http://localhost:1313/portfolio/phone/</link>
+      <pubDate>Sat, 29 Jul 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/phone/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+### Sections content configuration file
+### Here you can find all content in all pre-build sections
+
+### Contact [ contactSection ]
+contact:
+  enable: true
+  title: "Contact Us"
+  description: <p>Have a question or want to start your next landscaping project? Fill out the form below, and we’ll get back to you as soon as possible!</p>
+   contactInformation:
+    - title: "Email"
+      text: <a href="mailto:Wildroselandscaping@outlook.com">Wildroselandscaping@outlook.com</a>
+
+ 
+
+      

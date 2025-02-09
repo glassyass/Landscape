@@ -1,0 +1,161 @@
+### Sections content configuration file
+### Here you can find all content in all pre-build sections
+
+### Started [ startedSection ]
+started:
+  enable: true
+  profileImage: "/images/profile-2.jpg"
+  title: "Solutions for Your Business Made Exceptionally Easy."
+  text: "<p>God. There air meat. Behold him fourth let. Fowl fourth his years our a don't you'll his third own he very created won't tree form there created.</p><p>Together had said given day spirit. Land years upon, created winged all. Dry, days for form dry moved gathering meat light whose abundantly fowl said our. Have green. Cattle. Called i that waters dry one said firmament his after their night. Likeness.</p><p>A divide rule that second said Two deep. Darkness made great over moving together is us that unto heaven seed under set stars lesser had to Fruit so open, of there isn’t, whose saw. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed dusmod tempor incididunt ut labore et dolore magna aliqua. Darkness made great over moving together is us that unto heaven seed under set stars.</p>"
+  buttonText: "Get Started"
+  buttonLink: "/contact-v3/"
+
+### Services [ ServicesSection ]
+services:
+  enable: true
+  title: "Your Guides to Email Marketing, SEO, CRM, & Automation."
+  text: "<p>God. There air meat. Behold him fourth let. Fowl fourth his years our a don't you'll his third own he very created won't tree form there created.<p>"
+  items:
+    - title: "Social Media Optimization"
+      icon: "fa-solid fa-newspaper"
+      text: "<p>We don't want to conquer the cosmos, we simply want to extend the boundaries of Earth to the frontiers of the cosmos.</p>"
+    
+    - title: "Market Analysis"
+      icon: "fa-solid fa-chart-line-up"
+      text: "<p>We don't want to conquer the cosmos, we simply want to extend the boundaries of Earth to the frontiers of the cosmos.</p>"
+     
+    - title: "Web Development"
+      icon: "fa-solid fa-desktop"
+      text: "<p>We don't want to conquer the cosmos, we simply want to extend the boundaries of Earth to the frontiers of the cosmos.</p>"
+     
+    - title: "Conton Creation"
+      icon: "fa-solid fa-pencil"
+      text: "<p>We don't want to conquer the cosmos, we simply want to extend the boundaries of Earth to the frontiers of the cosmos.</p>"
+     
+    - title: "Photography"
+      icon: "fa-solid fa-camera"
+      text: "<p>We don't want to conquer the cosmos, we simply want to extend the boundaries of Earth to the frontiers of the cosmos.</p>"
+     
+    - title: "Business solution"
+      icon: "fa-solid fa-globe"
+      text: "<p>We don't want to conquer the cosmos, we simply want to extend the boundaries of Earth to the frontiers of the cosmos.</p>"
+
+### Chat [ chatSection ]
+chat:
+  enable: true
+  chatImage: "/images/chat-section.jpg"
+  title1: "Want more info?"
+  title2: "See How Sessions Can Change Your Life."
+  text: "<p>God. There air meat. Behold him fourth let. Fowl fourth his years our a don't you'll his third own he very created won't tree form there created.</p><p>A divide rule that second said Two deep. Darkness made great over moving together is us that unto heaven seed under set stars lesser had to Fruit so open, of there isn’t, whose saw. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed dusmod tempor incididunt ut labore et dolore magna aliqua.</p>"
+  buttonText: "Let's Chat"
+  buttonLink: "/contact-v2/"
+
+### Pricing [ pricingSection ]
+pricing:
+  enable: true
+  title: "Choose Wildrose for the best service in town"
+  text: "<p>At Wildrose Landscape and Construction, we take pride in creating and maintaining beautiful outdoor spaces. Whether you need regular lawn care, a custom landscape design, or seasonal services, we’re here to help.</p>"
+  items:
+    - title: "Lawn Care & Maintenance"
+      text: "<p>Keep your lawn healthy and vibrant with our expert care.</p>"
+      price: "$35/HR"
+      buttonText: "More Info"
+      buttonLink: "/contact-v1/"
+      list:
+      - title: "Fertilizing"
+        icon: "fa-solid fa-check"
+
+      - title: "Weed Control"
+        icon: "fa-solid fa-check"
+
+      - title: "Aeration"
+        icon: "fa-solid fa-check"
+
+      - title: "Overseeding"
+        icon: "fa-solid fa-check"
+
+    - title: "Landscape Design & Installation"
+      text: "<p>Transform your outdoor space with custom designs and quality installations.</p>"
+      price: "$55/MO"
+      buttonText: "More Info"
+      buttonLink: "/contact-v2/"
+      list:
+      - title: "Flower Bed Design"
+        icon: "fa-solid fa-check"
+
+      - title: "Planting"
+        icon: "fa-solid fa-check"
+
+      - title: "Trees, Shrubs & Sod Installation"
+        icon: "fa-solid fa-check"
+
+      - title: "Artificial Turf"
+        icon: "fa-solid fa-check"
+
+      - title: "Mulching"
+        icon: "fa-solid fa-check"
+
+    - title: "Seasonal Services"
+      text: "<p>Year-round care to keep your property looking its best.</p>"
+      price: "$100/HR"
+      buttonText: "More Info"
+      buttonLink: "/contact-v3/"
+      list:
+      - title: "Snow Plowing"
+        icon: "fa-solid fa-check"
+
+      - title: "Ice Management"
+        icon: "fa-solid fa-check"
+
+      - title: "Spring & Fall Cleanup"
+        icon: "fa-solid fa-check"
+
+      - title: "Seasonal Decorating"
+        icon: "fa-solid fa-check"
+
+      - title: "Seasonal Planting"
+        icon: "fa-solid fa-check"
+
+      - title: "Custom decks, planter boxes & more"
+        icon: "fa-solid fa-check"
+
+### Action Image [ actionImageSection ]
+actionImage:
+  enable: true
+  profileImage: "/images/team-6.jpg"
+  title: "We are here to guide you whenever you need."
+  text: "<p>Living, i divided was be every had. Him god. Don’t kind seed lesser heaven bearing waters seas in of earth female lights. Morning fruit may. May gathering moving fruit all them spirit dry place there appear they’re together.</p><p>Created, likeness bring which in stars herb a is give you’ll it life you’ll. Whose evening. Spirit subdue two don’t. Living, i divided was be every had. Him god. Don’t kind seed lesser heaven bearing waters seas in of earth female lights. Morning fruit may. May gathering moving fruit all them spirit dry place there appear they’re together.</p><p>A divide rule that second said Two deep. Darkness made great over moving together is us that unto heaven seed under set stars lesser had to Fruit so open, of there isn’t, whose saw. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed dusmod tempor incididunt ut labore et dolore magna aliqua.</p>"
+  buttonText: "Get Started"
+  buttonLink: "/contact-v3/"
+
+### Action Text [ actionTextSection ]
+actionText:
+  enable: true
+  title: "Ready to Grow Your Business?"
+  text: "<p>Darkness made great over moving together is us that unto heaven seed under set stars.</p>"
+  buttonText: "Get Started"
+  buttonLink: "/contact-v2/"
+
+### FAQ [ faqSection ]
+faq:
+  enable: true
+  title: "Frequently Asked Questions"
+  text: "<p>Answers to all of your frequently asked pricing questions.</p>"
+  accordion: 
+    - title: "How does the payment process work?"
+      text: "<p>Leverage the intuitive super awesome software that saves you time and will help grow your business.</p>"
+
+    - title: "How much does a website cost?"
+      text: "<p>Leverage the intuitive super awesome software that saves you time and will help grow your business.</p>"
+
+    - title: "What kind of businesses do you work with?"
+      text: "<p>Leverage the intuitive super awesome software that saves you time and will help grow your business.</p>"
+
+    - title: "Who will I work with during the project?"
+      text: "<p>Leverage the intuitive super awesome software that saves you time and will help grow your business.</p>"
+
+    - title: "What platform do you build your websites on?"
+      text: "<p>Leverage the intuitive super awesome software that saves you time and will help grow your business.</p>"
+
+    - title: "Can you help me source photos for my website?"
+      text: "<p>Leverage the intuitive super awesome software that saves you time and will help grow your business.</p>"
